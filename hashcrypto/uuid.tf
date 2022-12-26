@@ -1,0 +1,3 @@
+output "uuid" {
+    value = uuid()
+}
